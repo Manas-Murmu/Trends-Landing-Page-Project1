@@ -2,17 +2,13 @@
 
 ## Modern Trends Landing Page
 
----
-
 ### A Landing Page of "Whats Trend in 2025 ?"
 
 ![Badge](https://img.shields.io/badge/Manas--Ranjan--Murmu-Project1-blue) ![Badge](https://img.shields.io/badge/LCO-Full%20Stack%20Javascript%20Bootcamp-orange) ![](https://img.shields.io/badge/HTML-CSS-green)
 
----
+#### Built Using HTML & CSS (Desktop view Only)
 
-### Built Using HTML & CSS (Desktop view Only)
-
-### Time Taken to finish the Project - 4 hours (approx)
+#### Time Taken to finish the Project - 4 hours (approx)
 
 ---
 
@@ -23,7 +19,7 @@
 
 ---
 
-## Live Link [Demo](www.github.com)
+## Live Link [Demo](https://manas-ranjan-murmu-project1.netlify.app/)
 
 ### Screenshot
 
