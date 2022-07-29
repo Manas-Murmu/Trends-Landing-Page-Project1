@@ -1,0 +1,130 @@
+@import url("https://fonts.googleapis.com/css2?family=Orbitron:wght@800&family=Oswald:wght@200;500&family=Poppins:ital,wght@0,400;0,500;0,600;0,700;0,800;1,600&display=swap");
+
+* {
+  font-family: "orbitron";
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #ffffff;
+}
+.container {
+  margin: 2% 2%;
+}
+.navbar-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.list {
+  list-style-type: none;
+  display: flex;
+  gap: 50px;
+}
+.list-item {
+  font-size: 18px;
+  font-weight: 600;
+}
+.list-item:nth-child(1) {
+  text-decoration: underline;
+  text-underline-offset: 5px;
+  text-decoration-thickness: 3px;
+}
+.button-group {
+  display: flex;
+  gap: 15px;
+}
+.search-icon svg {
+  width: 25px;
+}
+.nav-button {
+  padding: 10px 30px;
+  border: 2px solid black;
+  border-radius: 10px;
+  background: transparent;
+}
+
+/* <!-- Hero Banner Section -- >  */
+
+.hero-container {
+  position: relative;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+.square {
+  position: absolute;
+  left: 150px;
+  top: 300px;
+}
+.square img {
+  width: 320px;
+}
+.star {
+  position: relative;
+}
+.star img {
+  position: absolute;
+  margin-left: 65rem;
+  margin-top: 80px;
+  width: 50px;
+}
+.globe img {
+  width: 60px;
+  margin-left: 50px;
+  margin-top: 20px;
+}
+.hero-container div > img {
+  position: relative;
+  width: auto;
+  height: 500px;
+  margin-top: -20px;
+}
+
+.hero-container-right {
+  position: relative;
+  margin-top: 40px;
+}
+.hero-heading {
+  margin-top: 40px;
+  font-size: 50px;
+  margin-left: -100px;
+}
+
+.hero-description {
+  font-size: 13px;
+  text-align: center;
+  font-weight: 300;
+  margin-left: -100px;
+  padding: 30px;
+}
+.hero-container-right button {
+  position: relative;
+  padding: 5px 30px;
+  border: 2px solid black;
+  border-radius: 10px;
+  margin-top: 20px;
+  margin-left: 50px;
+}
+.button-join {
+  background-color: black;
+  color: white;
+}
+.button-email {
+  left: 40px;
+}
+div h4 {
+  text-align: center;
+  margin-top: 90px;
+}
+.contact-heading {
+  margin-left: -20px;
+}
+.icons {
+  position: absolute;
+  margin-left: 200px;
+}
+.icons img {
+  width: 30px;
+  padding: 5px;
+}
